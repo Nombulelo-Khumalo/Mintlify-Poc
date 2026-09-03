@@ -8,16 +8,18 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ],
+    "navigation": {
+  "pages": [
+    {
+      "group": "Biostore",
+      "pages": [
+        "biostore/biostore-overview",
+        "biostore/deploy-linux",
+        "biostore/biostore-containerization",
+        "biostore/configure-service"
+      ]
+    }
+  ],
     "global": {
       "anchors": [
         {
